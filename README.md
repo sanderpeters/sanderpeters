@@ -1,4 +1,4 @@
-### Hi there 👋
+![this does compute](https://github.com/sanderpeters/sanderpeters/blob/main/assets/compute.gif?raw=true)
 
 <!--
 **sanderpeters/sanderpeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
